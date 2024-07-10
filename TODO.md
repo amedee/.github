@@ -1,0 +1,2 @@
+- Add more files from https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file
+- Move files to a folder `.github` and check if the other repost still find the files 
